@@ -1,0 +1,19 @@
+{
+    "name": "Geombot",
+    "version": "1.0.0",
+    "description": "Geombot for micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+		"neopixel": "github:lzty634158/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "Geombot.ts",
+        "_locales/zh/Servo-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}

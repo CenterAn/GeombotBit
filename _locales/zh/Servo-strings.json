@@ -1,0 +1,5 @@
+{
+	"Geombot.Servo|block": "设置舵机 %channel|角度 %degree",
+	"Geombot.Motor|block": "设置电机 %channel|转速 %pulse",
+	"Geombot.RGB_Program|block": "RGB灯"
+}
