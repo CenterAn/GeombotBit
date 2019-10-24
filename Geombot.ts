@@ -130,7 +130,7 @@ namespace Geombot {
 	 * Servo Execute
 	 * @param pulse [-200-200] pulse of servo; eg: -150, 0, 150
 	*/
-    //% blockId=setMotor block="Servo channel|%channel|pulse %pulse"
+    //% blockId=setMotor block="Motor number|%channel|speed %pulse"
     //% weight=85
     //% pulse.min=-200 pulse.max=200
     export function Motor(channel: number,pulse: number): void {
